@@ -57,7 +57,7 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [Frontend Mentor Solution]()
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-70-J9G0kGb)
 - Live Site URL: [Live Site at Vercel](https://nft-preview-card-component-main-seven-silk.vercel.app/)
 
 <br>
