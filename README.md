@@ -50,7 +50,7 @@ Users should be able to:
 
 <h3 align='center'>Mobile Version</h3>
 
-<img src="images/reademe_img/screenshot-mobile1.png">
+<img src="images/reademe_img/screenshot-mobile.png">
 
 <br>
 <br>
