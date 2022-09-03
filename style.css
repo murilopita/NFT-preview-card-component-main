@@ -193,3 +193,45 @@ body{
     color: var(--cyan);
 
 }
+
+/*Media Queries*/
+
+@media (max-width: 350px) {
+    .container{
+    margin-left: 0 4.5rem;
+    }
+
+
+    .card-info .info{
+        text-align: center;
+    }
+
+    .status-info {
+        display: flex;
+        justify-content: space-between;
+        justify-content: center;
+        align-items: center;
+        border-bottom: solid 1px var(--line);
+        flex-direction: column;
+        padding-bottom: 1rem;
+        padding-left: 2.0rem;
+    }
+    
+    .status-info .status1{
+        padding-bottom: 2rem;
+    }
+
+    .status-info .status1, .status2{
+        width: 50%;
+    }
+
+    .status-info .status1 img, .status2 img{
+        text-align: center;
+        margin-right: 0.5rem;
+        
+    }
+
+    .profile{
+        justify-content: center;
+    }
+}
